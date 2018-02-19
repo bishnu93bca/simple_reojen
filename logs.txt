@@ -1,0 +1,1376 @@
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 6sbcsrpf12d9gh0snr14cq87m4
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => mktakkqnbf30pf16kcdav6tdo2
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [money] => Y
+    [PHPSESSID] => 7gga79e25j68aagkomf603vmc3
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [PHPSESSID] => j62skaef5qvmka0r6sbm9svmc1
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 3gc90rs92a9qk9d4sg9ial63k3
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => 3gc90rs92a9qk9d4sg9ial63k3
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => ldj2dtnbduemj083flaneevv56
+    [money] => Y
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => qrg06ek42u93sojed5miljhn56
+)
+
+Array
+(
+    [_ga] => GA1.2.1285319464.1509270944
+    [PHPSESSID] => qrg06ek42u93sojed5miljhn56
+)
+
